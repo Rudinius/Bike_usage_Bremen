@@ -11,3 +11,6 @@ In this project the values of different bicylce counting stations in the city of
 * Train a machine learning model, to accurately forecast the bike traffic for a given day.
 
 The data ranges from 01.01.2013 to 31.12.2022. In addtition to the data of the bicycle counting stations, further data (weather data, geo-locations, national holidays, school vacations) are added.
+
+**Note:**
+This project is optimized to be used with Google Colaboratory. Some code blocks (e.g., the export of .csv files) will only work in Google Colaboratory environment. 
