@@ -12,5 +12,14 @@ In this project the values of different bicylce counting stations in the city of
 
 The data ranges from 01.01.2013 to 31.12.2022. In addtition to the data of the bicycle counting stations, further data (weather data, geo-locations, national holidays, school vacations) are added.
 
+This project contains 3 notebooks:
+ * 1_Data_Prep
+ * 2_EDA
+ * 3_Model_Training
+
+In the first notebook 1_Data_Pred the datasets are loaded and prepared and column names are formatted as well as different datasets are joined together and lastly exported for the next step.
+In the second notebook 2_EDA the data is analyzed indepth, about e.g., missing data, data distribution and correlations. The missing data and outliers are handled and lastly exported for the last step.
+In the last notebook 3_Model_Training the dataset is finally prepared for learning algorithms and different algorithms are being tested.
+
 **Note:**
 This project is optimized to be used with Google Colaboratory. Some code blocks (e.g., the export of .csv files) will only work in Google Colaboratory environment. 
