@@ -22,4 +22,4 @@ In the second notebook 2_EDA the data is analyzed indepth, about e.g., missing d
 In the last notebook 3_Model_Training the dataset is finally prepared for learning algorithms and different algorithms are being tested.
 
 **Note:**
-This project is optimized to be used with Google Colaboratory. Some code blocks (e.g., the export of .csv files) will only work in Google Colaboratory environment. 
+This project is optimized to be used with Google Colaboratory because of higher computational power and GPU resources compared to my local dev enviromnet. Some code blocks (e.g., the export of .csv files) will only work in Google Colaboratory environment. 
