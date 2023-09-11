@@ -17,6 +17,3 @@ This project contains 3 notebooks:
  * 2_EDA
  * 3_Imputing
  * 4_Model_Training
-
-**Note:**
-This project is optimized to be used with Google Colaboratory because of higher computational power and GPU resources compared to my local dev enviromnet. Some code blocks (e.g., the export of .csv files) will only work in Google Colaboratory environment. 
